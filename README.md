@@ -3,5 +3,5 @@
 ## 22112004
 ## 4BSc DS
 ### Lab02: Create a responsive web page
-#### The following lab consist of a basic responsive web landing page
-#### Multiple styling features are explored and used inorder to make the web page more interractive about the products the company provides.
+#### The following lab consist of a basic responsive web landing page of an interior designing company called 'Elegant Spaces Design Co.'
+#### Multiple styling features are explored and used inorder to make the web page more interractive about the products the company provides which can be viewed on multiple devices.
